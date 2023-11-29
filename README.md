@@ -21,7 +21,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axw568@case.edu)
   
 </div>
-<p>&nbsp</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -47,6 +46,9 @@
   </a> 
   <a href="https://react.dev/" target="_blank"> 
     <img src="./images/react.svg" alt="ReactJS" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="./images/Node.js_logo.svg" alt="ReactJS" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
