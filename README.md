@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,&nbsp I'm Anthony <img height="40" src=""></h1>
+<h1 align="center">Hi 👋,&nbsp I'm Anthony</h1>
 <h3 align="center">A passionate developer from New Jersey</h3>
 
 - 🔭 Currently working on my **E-Commerce** Application
