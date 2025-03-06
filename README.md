@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋,&nbsp I'm Anthony <img height="40" src=""></h1>
-<h3 align="center">A passionate Full Stack developer from New Jersey specializing in Java, Python, and C</h3>
+<h3 align="center">A passionate developer from New Jersey</h3>
 
-- 🔭 Currently working on my **Dicom-Viewer** Application
+- 🔭 Currently working on my **E-Commerce** Application
 
-- 📘 Third-year student at **Case Western Reserve University**
+- 📘 Alumni of **Case Western Reserve University**
 
-- 🌱 Learning **Python** and **C**
+- 🌱 Learning **Python**, **AWS**, **Github Actions (CI/CD)**
 
-- 🤝 Looking to collaborate on **software engineering full stack projects**
-
-- 📫 How to reach me: **axw568@case.edu**
+- 📫 How to reach me: **anthonywang64@gmail.com**
 
 - ⚡ What I like to do: I enjoy reading, playing basketball, and, of course, coding.
 
@@ -18,7 +16,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-wang-b9a945247/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axw568@case.edu)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonywang64@gmail.com)
   
 </div>
 
